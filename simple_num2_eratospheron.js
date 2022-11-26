@@ -1,5 +1,5 @@
-// let num = Number(process.argv[2]);
-let num = 100000            // 100К
+let num = Number(process.argv[2]);
+//let num = 100000            // 100К
 console.log(num);
 
 
